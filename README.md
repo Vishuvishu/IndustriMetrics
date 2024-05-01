@@ -12,7 +12,7 @@ This is  project is created by me( Vishu bhingradiya and Chirayu Budhrani ).
 
 ## Demo Screenshots for project
 
-Insert gif or link to demo
+Screenshots here
 
 
 ## Github Profile of contributors
