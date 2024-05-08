@@ -12,7 +12,7 @@ This is  project is created by me( Vishu bhingradiya and Chirayu Budhrani ).
 
 ## Demo Screenshots for project
 
-![image 1](screenshots/Picture1.png)
+<img src="screenshots/Picture1.png" width="100" height="200"> 
 ![image 2](http://url/to/img.png)
 ![image 3](http://url/to/img.png)
 ![image 4](http://url/to/img.png)
