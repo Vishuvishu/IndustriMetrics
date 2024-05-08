@@ -12,13 +12,13 @@ This is  project is created by me( Vishu bhingradiya and Chirayu Budhrani ).
 
 ## Demo Screenshots for project
 
-<img src="screenshots/Picture1.png" width="100" height="200"> 
-![image 2](http://url/to/img.png)
-![image 3](http://url/to/img.png)
-![image 4](http://url/to/img.png)
-![image 5](http://url/to/img.png)
-![image 6](http://url/to/img.png)
-
+<img src="screenshots/Picture1.png" width="150" height="300"> 
+<img src="screenshots/Picture2.png" width="150" height="300"> 
+<img src="screenshots/Picture3.png" width="150" height="300"> 
+<img src="screenshots/Picture4.png" width="150" height="300"> 
+<img src="screenshots/Picture5.png" width="150" height="300"> 
+<img src="screenshots/Picture6.png" width="150" height="300"> 
+<img src="screenshots/Picture7.png" width="150" height="300"> 
 
 
 ## Github Profile of contributors
