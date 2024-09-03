@@ -1,7 +1,7 @@
 
 # Project Name : IndustriMetrics
 
-This is  project is created by me( Vishu bhingradiya and Chirayu Budhrani ).
+This is  project is created by Vishu bhingradiya and Chirayu Budhrani ).
 
 
 
