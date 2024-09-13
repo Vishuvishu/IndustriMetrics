@@ -14,6 +14,7 @@ This is  project is created by Vishu bhingradiya and Chirayu Budhrani ).
  - Lottie
  - Local Auth
  - Launch URL
+ - Bottom_navi_bar
    
 ## Demo Screenshots for project
 <p float="left"><img src="screenshots/Picture1.png" width="150" height="300"><img src="screenshots/Picture2.png" width="150" height="300"><img src="screenshots/Picture3.png" width="150" height="300">  </p>
