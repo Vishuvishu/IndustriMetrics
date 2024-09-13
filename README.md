@@ -9,6 +9,12 @@ This is  project is created by Vishu bhingradiya and Chirayu Budhrani ).
 
  - As code of this project is classified we are not able to share code on github but ofcourse we have attached screenshot for project demo
 
+## Libraries Used
+
+ - Lottie
+ - Local Auth
+ - Launch URL
+   
 ## Demo Screenshots for project
 <p float="left"><img src="screenshots/Picture1.png" width="150" height="300"><img src="screenshots/Picture2.png" width="150" height="300"><img src="screenshots/Picture3.png" width="150" height="300">  </p>
 <p float="left"><img src="screenshots/Picture4.png" width="150" height="300"><img src="screenshots/Picture5.png" width="150" height="300"><img src="screenshots/Picture6.png" width="150" height="300">  </p>
